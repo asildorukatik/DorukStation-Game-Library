@@ -1,5 +1,6 @@
 # DorukStation-Game-Library
 # This is where dorukstation downloads its games. This is the DorukStation Game Library
+
 [
 Game: “DorukCraft”
 Age: +10
@@ -13,6 +14,7 @@ VR: Not Supported
 Logo: https://files.catbox.moe/ji9bv5.png
 GameFile: 
 ]
+
 [
 Game: “DorukCraft Dungeons”
 Age: +10
