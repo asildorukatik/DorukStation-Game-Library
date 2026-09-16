@@ -1,0 +1,1 @@
+Steam is Valve's PC game platform and launcher. DorukStation does not host Steam installer files; installation is resolved from Valve's official download flow at install time so the current official installer is used.
