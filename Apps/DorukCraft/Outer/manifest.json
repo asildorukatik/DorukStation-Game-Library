@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "id": "dorukcraft",
+  "name": "DorukCraft",
+  "publisher": "DorukGames",
+  "version": "current",
+  "packageType": "hosted",
+  "descriptionFile": "description.txt",
+  "ageRating": "+10",
+  "players": "1-4",
+  "genres": ["Sandbox", "Adventure"],
+  "languages": ["English"],
+  "vr": false,
+  "installSize": "35.3 MB",
+  "logoUrl": "https://files.catbox.moe/ji9bv5.png",
+  "payload": {
+    "fileType": "web-pwa",
+    "source": "../Inner.zip"
+  },
+  "runtime": {
+    "handler": "dorukstation-web"
+  }
+}
