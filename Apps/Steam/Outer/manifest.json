@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "id": "steam",
+  "name": "Steam",
+  "publisher": "Valve",
+  "version": "latest",
+  "packageType": "external",
+  "descriptionFile": "description.txt",
+  "payloads": {
+    "windows": {
+      "fileType": "windows-exe",
+      "source": "Download.link"
+    },
+    "linux": {
+      "fileType": "deb",
+      "source": "Download.link"
+    }
+  },
+  "resolver": {
+    "provider": "steam",
+    "mode": "official-latest",
+    "source": "Download.link"
+  },
+  "runtime": {
+    "handler": "external-resolver"
+  }
+}
