@@ -1,0 +1,5 @@
+DORUKSTATION-LINK/1
+mode=official-latest
+provider=epic
+page=https://store.epicgames.com/download
+platform=windows
