@@ -1,0 +1,5 @@
+DORUKSTATION-LINK/1
+mode=official-latest
+provider=steam
+page=https://store.steampowered.com/about/
+platform=auto
