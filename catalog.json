@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "items": [
+    "Apps/DorukCraft/Outer/manifest.json",
+    "Apps/DorukCraft-Dungeons/Outer/manifest.json",
+    "Apps/Steam/Outer/manifest.json",
+    "Apps/Epic-Games-Launcher/Outer/manifest.json"
+  ]
+}
