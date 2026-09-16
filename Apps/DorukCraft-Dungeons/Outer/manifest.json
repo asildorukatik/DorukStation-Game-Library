@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "id": "dorukcraft-dungeons",
+  "name": "DorukCraft Dungeons",
+  "publisher": "DorukGames",
+  "version": "current",
+  "packageType": "hosted",
+  "descriptionFile": "description.txt",
+  "ageRating": "+10",
+  "players": "1-4",
+  "genres": ["Dungeon Crawler", "Adventure"],
+  "languages": ["English"],
+  "vr": false,
+  "installSize": "130.0 MB",
+  "logoUrl": "https://files.catbox.moe/4k2978.png",
+  "payload": {
+    "fileType": "html",
+    "source": "../Inner.zip"
+  },
+  "runtime": {
+    "handler": "dorukstation-web"
+  }
+}
