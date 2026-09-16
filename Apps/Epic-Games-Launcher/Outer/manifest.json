@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "epic-games-launcher",
+  "name": "Epic Games Launcher",
+  "publisher": "Epic Games",
+  "version": "latest",
+  "packageType": "external",
+  "descriptionFile": "description.txt",
+  "payload": {
+    "fileType": "windows-msi",
+    "source": "Download.link"
+  },
+  "resolver": {
+    "provider": "epic",
+    "mode": "official-latest",
+    "source": "Download.link"
+  },
+  "runtime": {
+    "handler": "windows-compat"
+  }
+}
