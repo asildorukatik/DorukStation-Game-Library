@@ -1,0 +1,1 @@
+Epic Games Launcher is Epic Games' PC game launcher and storefront. DorukStation does not host Epic installer files; installation is resolved from Epic's official download flow at install time so the current official installer is used.
